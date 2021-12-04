@@ -11,6 +11,10 @@
 ## Sobre 
     Aplicação web que apresenta a melhor escala de aeroportos dados um de saída e chegada. Além disso, informa os voos disponíveis com o itinerário de aeroportos apresentado pelo menor caminho, baseado na distância entre os aeroportos obtida pela latitude e longitude como peso das arestas.
 
+# Video
+
+* Youtube presentation: https://www.youtube.com/watch?v=BUlUI3wQi_Y
+
 ## Screenshots
 
 ![home](./public/home.png)
