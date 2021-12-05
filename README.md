@@ -1,15 +1,25 @@
-**Número da Lista**: 2<br>
-**Dupla 5**<br>
-**Conteúdo da Disciplina**: Dijkstra - Shortest path problem<br>
+<h1 align="center">
+Airport Stopover - Dijkstra - Shortest path problem
+</h1>
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 17/0138551|Bruno Duarte|
-| 17/0033112|Eugênio Sales|
+<p align="center">Aplicação web que apresenta a melhor escala de aeroportos dados um de saída e chegada. Além disso, informa os voos disponíveis com o itinerário de aeroportos apresentado pelo menor caminho, baseado na distância entre os aeroportos obtida pela latitude e longitude como peso das arestas.</p>
 
-## Sobre 
-    Aplicação web que apresenta a melhor escala de aeroportos dados um de saída e chegada. Além disso, informa os voos disponíveis com o itinerário de aeroportos apresentado pelo menor caminho, baseado na distância entre os aeroportos obtida pela latitude e longitude como peso das arestas.
+<p align="center">
+  <a href="https://github.com/Rocketseat/youtube-challenge-node-kafka/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-challenge-node-kafka?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/rocketseat/youtube-challenge-node-kafka?color=%237159c1&logo=mit" alt="License">
+  </a>
+</p>
+
+<hr>
+
+## Participants
+
+| [<img src="https://avatars.githubusercontent.com/u/42457772?v=4" width="75px;"/>](https://github.com/Eugeniosales) | [<img src="https://avatars.githubusercontent.com/u/48650663?v=4" width="75px;"/>](https://github.com/Mexazonic) |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+|                                       [Eugenio Sales](https://github.com/Eugeniosales)                                        |                                      [Bruno Duarte](https://github.com/Mexazonic)    
 
 # Video
 
@@ -26,7 +36,7 @@
 ![flights](./public/flights.png)
 
 
-## Depêndecnias
+## Depêndencias
 
 **Linguagem**: Javascript (Framework React.js)
 <br>
